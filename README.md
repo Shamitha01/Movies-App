@@ -1,1 +1,1 @@
-# Trending-Movies
+# Movies-App
